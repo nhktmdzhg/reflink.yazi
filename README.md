@@ -7,7 +7,7 @@ This is a Yazi plugin for reflinking files.
 Install the plugin:
 
 ```
-ya pack -a Ape/reflink
+ya pkg add nhktmdzhg/reflink.yazi
 ```
 
 Create `~/.config/yazi/keymap.toml` and add:
